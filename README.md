@@ -1,2 +1,2 @@
-# Kanban
-A visual system for managing work as it moves through various stages, aiming to optimize flow and limit work-in-progress.
+313257545_209222215_208455980
+# kanban
