@@ -19,3 +19,8 @@ Kanban is a visual framework commonly used in agile software development to opti
 - Assign tasks to specific team members.
 - Receive real-time notifications for task updates.
 - Automatic syncing across multiple devices.
+
+  
+## Authors
+
+This application was coded by Tal Malma or Malky and Dayan Badalbaev for the "Introduction to Software Engineering" course at BGU University.
